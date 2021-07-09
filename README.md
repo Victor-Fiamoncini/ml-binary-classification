@@ -1,4 +1,4 @@
-# ML Classification Study
+# ML Binary Classification Study
 
 ----------
 Released in 2021. This project is under the MIT license.
